@@ -73,4 +73,4 @@ Example output:
 ## References
 
 - Fully Convolutional Networks for Semantic Segmentation (Long et al., 2015)
-- TensorFlow & PyTorch implementations of FCNs
+- TensorFlow implementations of FCNs
